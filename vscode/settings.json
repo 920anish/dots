@@ -70,5 +70,15 @@
     "explorer.confirmDelete": false,
     "files.autoSave": "afterDelay",
     "git.confirmSync": false,
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "latex": true
+    },
+    "github.copilot.nextEditSuggestions.eagerness": "high"
 }
